@@ -16,9 +16,9 @@ Node JS (express)
 
 EJS for rendering
 
-### How to use:
+## How to use:
 
-recomended to use an external terminal that support scripts..
+### recomended to use an external terminal that support scripts..
 
 
 1 - type "npm i" to install modules
